@@ -1,0 +1,7 @@
+git push
+git pull
+git add FILENAME
+git commit "COMMENT" FILENAME
+git log --pretty=oneline
+git checkout VERSION_MSB_4_DIGITS
+git reset --hard
